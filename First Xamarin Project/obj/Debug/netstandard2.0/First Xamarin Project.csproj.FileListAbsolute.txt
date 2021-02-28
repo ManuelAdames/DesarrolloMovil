@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\bin\Debug\netstandard2.0\First Xamarin Project.deps.json
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\bin\Debug\netstandard2.0\First Xamarin Project.dll
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\bin\Debug\netstandard2.0\ref\First Xamarin Project.dll
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\bin\Debug\netstandard2.0\First Xamarin Project.pdb
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.dll
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\ref\First Xamarin Project.dll
+C:\Users\Manuel\source\repos\First Xamarin Project\First Xamarin Project\First Xamarin Project\obj\Debug\netstandard2.0\First Xamarin Project.pdb
